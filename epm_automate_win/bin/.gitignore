@@ -1,0 +1,7 @@
+creds.json
+*.swp
+*.un
+*.un~
+__pycache__/
+.prefs
+*.log
